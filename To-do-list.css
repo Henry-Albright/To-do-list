@@ -1,0 +1,8 @@
+.task {
+    margin: 10px 0;
+}
+.delete-btn {
+    margin-left: 10px;
+    color: red;
+    cursor: pointer;
+}
